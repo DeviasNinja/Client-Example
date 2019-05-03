@@ -1,0 +1,35 @@
+Initialize engine version: 5.3.6p2 (7f388044e2f5)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documents\Games In The Making\Client Example\Example_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documents\Games In The Making\Client Example\Example_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documents\Games In The Making\Client Example\Example_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documents\Games In The Making\Client Example\Example_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading D:\Documents\Games In The Making\Client Example\Example_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading D:\Documents\Games In The Making\Client Example\Example_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\KDTree.dll (this message is harmless)
+Loading D:\Documents\Games In The Making\Client Example\Example_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\Triangle.dll (this message is harmless)
+Loading D:\Documents\Games In The Making\Client Example\Example_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.388 seconds
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documents\Games In The Making\Client Example\Example_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 4920x1920 at -1920,-426
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.362000 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 27a8 -> priority: 1 
+  Thread -> id: 315c -> priority: 1 
